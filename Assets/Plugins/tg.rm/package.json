@@ -1,0 +1,12 @@
+{
+    "displayName": "Asset Bundle Manager",
+    "name": "tg.abmgr",
+    "version": "1.0.0",
+    "versions": [],
+    "description": "ab 管理解决方案",
+    "keywords": [],
+    "category": "",
+    "links": [],
+        "unitySinceBuild": "*",
+    "unityUntilBuild": "*"
+}
